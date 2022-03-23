@@ -1,0 +1,26 @@
+.header {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 10px;
+}
+
+.header a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #000;
+}
+
+.navigation {
+  display: flex;
+  gap: 10%;
+  margin-left: auto;
+  margin-right: 10%;
+}
+
+.navigation a:not(:last-of-type) {
+  padding-right: 10%;
+  border-right: 1px solid #000;
+}
