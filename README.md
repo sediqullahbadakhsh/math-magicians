@@ -4,6 +4,13 @@
 
 > math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: make simple calculations and read a random math-related quote.
 
+## Live Demo
+
+### Heroku
+
+[Heroku live demo](https://mathmagicians3.herokuapp.com/calculator)
+[Netlify live demo](https://mathmagicians1.netlify.app)
+
 ## Setup
 
 ### Clone this repository
