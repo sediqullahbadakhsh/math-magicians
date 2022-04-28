@@ -7,7 +7,7 @@
 ## Live Demo
 
 - [Heroku live demo](https://mathmagicians3.herokuapp.com/calculator)
-- [Netlify live demo](https://mathmagicians1.netlify.app)
+- [Netlify live demo](https://maths234.netlify.app/)
 
 ## Setup
 
